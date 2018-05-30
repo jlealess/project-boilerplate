@@ -1,6 +1,11 @@
 @import 'setup';
+@import 'utils';
+@import 'typography';
 
-.container {
-	max-width: 900px;
-	margin: 0 auto;
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
 }
